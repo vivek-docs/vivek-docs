@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://vivek-docs.github.io/sitemap.xml
