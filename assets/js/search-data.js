@@ -39,7 +39,7 @@ ninja.data = [{
               },
             },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "API Documentation Architecture | Developer Experience (DX) Strategy | Structured Authoring (DITA-Based) | Agile Release Documentation | UX Microcopy &amp; Interface Writing | Documentation Governance | Technical Editing &amp; Content Quality | Developer Onboarding Enablement | Translation Readiness &amp; Vendor Governance.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/vivek-docs/cv/";
